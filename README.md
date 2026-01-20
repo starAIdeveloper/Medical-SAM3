@@ -33,3 +33,29 @@ The inference pipeline supports:
   </a>
 </div>
 
+## 📅 Todo List
+
+| Feature | Status | Description |
+| :--- | :---: | :--- |
+| **Demo** | 🚧 Doing | Online interactive demo. |
+| **Data Scaling** | 🚧 Doing | Significantly expand the training corpus and evaluate on broader and more diverse medical datasets. |
+| **Training Code** |  📅 Planned | Release full training scripts and data construction guidelines. |
+| **Medical-SAM3 Agent** | 📅 Planned | Integrate LLMs to enable agentic reasoning and interaction for segmentation tasks. |
+
+<br>
+<p align="left">
+  <i>📢 We are actively updating this repository. If you are interested in any features above, feel free to open an issue!</i>
+</p>
+
+## 📝 Citation
+
+If you find Medical-SAM3 useful for your research or work, please consider citing our paper:
+
+```bibtex
+@article{jiang2026medicalsam3,
+  title={Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation},
+  author={Jiang, Chongcong and Ding, Tianxingjian and Song, Chuhan and Tu, Jiachen and Yan, Ziyang and Shao, Yihua and Wang, Zhenyi and Shang, Yuzhang and Han, Tianyu and Tian, Yu},
+  journal={arXiv preprint arXiv:2601.10880},
+  year={2026},
+  url={https://arxiv.org/abs/2601.10880}
+}
